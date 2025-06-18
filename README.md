@@ -8,8 +8,6 @@ Since then, I’ve been on a journey to find **my field** in the vast world of t
 Right now, I’m diving deep into **Web Development**, focusing on **JavaScript**, and building small real things to strengthen my fundamentals — instead of jumping into frameworks too early.
 
 ---
-<div style="display: flex; align-items: center;justify-content: flex-start; border: none; padding: 15px 0px; gap: 50px;">
-<div style="min-width: 300px;">
 
 ## 💻 Languages I Use
 
@@ -19,18 +17,6 @@ Right now, I’m diving deep into **Web Development**, focusing on **JavaScript*
 - I also love Traditional CSS
 
 ---
-</div>
-<div style="border: 1px solid gray; padding: 5px 15px; border-radius: 20px; background: rgb(32, 32, 32);">
-
-## **Current Stop - Web Development**
-### Next Station - AI
-
-</div>
-</div>
-
-<div style="display: flex;  justify-content: flex-start;">
-
-<div style="border-right: 1px solid gray; padding-right: 10px; width: 700px">
 
 ## 🚀 Real World Tools I've Built
 
@@ -52,25 +38,18 @@ Now anyone can create emails with emotion — colors, buttons, and all.
 
 ---
 
-</div>
-<div style="padding-left: 25px;">
-
 ## 📚 Learning & Progress
 
-### 🎓 [SQL Learning](https://github.com/abhisarxverma/SQL-Mastery)
-> Completed the **Harvard CS50 SQL course** — practice projects on SQL Lite, now moving towards MySQL.
+- 🎓 Completed the **Harvard CS50 SQL course** — practice projects are in my [repo](https://github.com/abhisarxverma/SQL-Mastery)
 
-### 🔍 [Data Structures & Algorithms](https://github.com/abhisarxverma/DSA-by-heart)
-> Solving every problem in both Python and C++ using the pattern:  
+- 🔍 Practicing **Data Structures & Algorithms** in both Python and C++ in this [repo](https://github.com/abhisarxverma/DSA-by-heart)
+  Solving every problem using the pattern:  
   **BRUTE → BETTER → OPTIMAL**
 
-### 📘 [Programming Book Reading](https://github.com/abhisarxverma/Books)
-> Currently reading **The Pragmatic Programmer** and Making notes  to remind my future self what matters.
+- 📘 Currently reading: *The Pragmatic Programmer*  
+  Making notes [here](https://github.com/abhisarxverma/Books) to remind my future self what matters.
 
 ---
-</div>
-
-</div>
 
 ## 🧭 What I'm About
 
