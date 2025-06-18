@@ -41,7 +41,8 @@ Now anyone can create emails with emotion — colors, buttons, and all.
 ## 📚 Learning & Progress
 
 - 🎓 Completed the **Harvard CS50 SQL course** — practice projects are in my [repo](https://github.com/abhisarxverma/SQL-Mastery)
-- 🔍 Practicing **Data Structures & Algorithms** in both Python and C++  
+
+- 🔍 Practicing **Data Structures & Algorithms** in both Python and C++ in this [repo](https://github.com/abhisarxverma/DSA-by-heart)
   Solving every problem using the pattern:  
   **BRUTE → BETTER → OPTIMAL**
 
