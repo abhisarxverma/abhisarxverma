@@ -61,4 +61,5 @@ Slow is smooth. Smooth is fast.
 
 ---
 
-📬 Want to connect? (My Whatsapp) [+919315705992]
+📬 Want to connect? 
+Mail - absrshanks@gmail.com
