@@ -1,9 +1,10 @@
 # 👋 Hey, I'm Abhisar
 
 In **November 2024**, I found my purpose — **programming**.  
-It wasn’t just curiosity, it was *heart connection*. I felt like I had found the one thing I could do every morning and every night — until the end.
+It wasn’t just curiosity, it was *heart connection*. I felt like I had found the one thing I could do every morning and every night — until the very end.
 
 Since then, I’ve been on a journey to find **my field** in the vast world of technology.  
+
 Right now, I’m diving deep into **Web Development**, focusing on **JavaScript**, and building small real things to strengthen my fundamentals — instead of jumping into frameworks too early.
 
 ---
@@ -31,7 +32,7 @@ Pour your thoughts into a dark, colorful screen — reflect, save, and breathe.
 > A twist on the to-do list: for regrets and second chances.  
 Reflect on past decisions, reframe them, and start again.
 
-### 💌 [Beautiful Mail](#)
+### 💌 Beautiful Mail
 > Why should only companies send nice emails?  
 Now anyone can create emails with emotion — colors, buttons, and all.
 
