@@ -14,6 +14,10 @@ Right now, I’m diving deep into **Web Development**, focusing on **JavaScript*
 
 ## 🚀 **Recent Webapps I deployed**
 
+### [Errorhelp - My First Fullstack Webapp](https://errorhelp.pythonanywhere.com)
+
+> I couldn't see developers share **Error Screenshots and Code in Chats** Asking for help, so I built this No-login, simple Webapp where developers can put everything related to the Error, the code files and Error terminal message ane more at one place in an **Erroframe** and share the link to the helpers, who can leave **help comments** on the Errorframe.
+
 ### [TypeTalk](http://typetalk.netlify.app)
 
 > TypeTalk is a cool and fun webapp that lets you Talk in online calls without speaking a word—just type, and your voice enters the online call 📞. 
