@@ -1,7 +1,7 @@
 # 💟 Abhisar Welcomes you!
 
 In **November 2024**, I found my purpose — **programming**.  
-I felt like I had found the one thing I could do every morning and every night — until the very end 😋.
+I felt like I found the one thing I could do from every morning to every night without getting tired — until the very end 😋.
 
 Since then, I’ve been on a journey ✈️ to find **my field** in the vast world of technology. 
 
