@@ -8,7 +8,7 @@ Since then, I’ve been on a journey ✈️ to find **my field** in the vast wor
 ## **Current Stop - Web Development 💻**
 ### Next Station - AI Apps 🤖
 
-Right now, I’m diving deep into **Web Development**, focusing on **JavaScript**, and building small real things to strengthen my fundamentals — instead of jumping into frameworks too early.
+Right now, I’m diving deep into **Web Development**, focusing on **React** and the whole toolset around that, slowly turning the ideas from my ideas diary into deployed sites.
 
 ---
 
@@ -35,7 +35,9 @@ Reflect on past decisions, reframe them, and start again.
 > A canvas for emotional release❣️ .  
 Pour your thoughts into a dark, colorful screen — reflect, save, and breathe.
 
-### Beautiful Mail - Chrome Extension
+## Other Projects
+
+### [Beautiful Mail - Chrome Extension](https://github.com/abhisarxverma/Beautful_mail.git)
 > Why should only companies send nice emails?  
 Now anyone can create emails with emotion — colors, buttons, and all 💌.
 
