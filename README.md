@@ -30,7 +30,7 @@ Right now, I’m diving deep into **Web Development**, focusing on **React** and
 > A twist on the to-do list: for regrets and second chances 😌. Just put your things that you want to undo or to do better. I took UI design from Canva AI, but coded whole website myself in HTML, CSS and JS. [Checkout Repository](https://github.com/abhisarxverma/To_Undo_List)
 
 ### [Thought Painting](https://thoughtpainting.netlify.app)
-> A canvas for cluttered minds❣️. I know it's hard to put the cluttered and weird thoughts on a clean white paper, so I built this, just put your thoughts wherever you feel like and make a painting of your thoughts with random colors and random font sizes. [Checkout Repository](https://github.com/abhisarxverma/Thought_Painting)
+> A canvas for cluttered minds❣️. I know it's hard to put the cluttered thoughts on a clean white paper, so I built this, just put your thoughts wherever you feel like on canvas, see how your thought painting looks with random colors and font sizes. [Checkout Repository](https://github.com/abhisarxverma/Thought_Painting)
 
 ## Other Projects
 
