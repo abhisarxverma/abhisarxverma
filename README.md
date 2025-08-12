@@ -12,59 +12,38 @@ Right now, I’m diving deep into **Web Development**, focusing on **React** and
 
 ---
 
-## 🚀 **Recent Webapps I deployed**
+## 🚀 **Recent Webapps I deployed [All Open-source]**
 
 ### [MyTuneTale - My First Fullstack React Webapp](https://mytunetale.pythonanywhere.com)
 
-> Connect your spotify and see your most listened tracks and most listened artists across three time frames - 30 days, 6 months and 1 year, See your monthly song addition journey through a line chart, Select any date you will see all the songs you added on that day and in that month, and last but not least with one click turn all your most listened songs in to a playlist.I learnt a lot through this, learnt about my mistakes also that i will improve in next website that i am going to make.
+> I wanted to **practice React**, and i found no better thing to make than this, **Connect your spotify** and see your most **listened tracks** and most listened artists across three time frames - 30 days, 6 months and 1 year, See your monthly song addition journey through a line chart, Select any date you will see all the songs you added on that day and in that month. After completing this i came to know about the [Volt.fm](https://volt.fm/) site that does the same thing but more better and on more social level, still i deployed the site cause i had fun working on it. [Checkout Repository](https://github.com/abhisarxverma/MyTuneTale)
 
 ### [Errorhelp - My First Fullstack Webapp](https://errorhelp.pythonanywhere.com)
 
-> I couldn't see developers share **Error Screenshots and Code in Chats** Asking for help, so I built this No-login, simple Webapp where developers can put everything related to the Error, the code files and Error terminal message ane more at one place in an **Erroframe** and share the link to the helpers, who can leave **help comments** on the Errorframe.
+> I couldn't see developers share **Error Screenshots and Code in Chats** Asking for help, so I built this No-login, simple Webapp where developers can put everything related to the Error, the code files and Error terminal message ane more at one place in an **Erroframe** and share the link to the helpers, who can leave **help comments** on the Errorframe. [Checkout Repository](https://github.com/abhisarxverma/Errorhelp)
 
 ### [TypeTalk](http://typetalk.netlify.app)
 
-> TypeTalk is a cool and fun webapp that lets you Talk in online calls without speaking a word—just type, and your voice enters the online call 📞. 
-Perfect for noisy spaces, silent zones, or fellow introverts 😶‍🌫️ to talk openly.
+> I am an Intovert, so I couldn't talk in online voice calls in discord, so I build Typetalk, a website that helps you talk in online voice calls by typing and not speaking. Typetalk is nothing more than just a clean interface to manage the sentences and conversation you do by typing, you can save a spoken sentence, change voice, pitch, rate and volume, talk with fun voices 📞. Perfect for noisy spaces, silent zones, or fellow introverts 😶‍🌫️ to talk openly. [Checkout Repository](https://github.com/abhisarxverma/TypeTalk) 
 
 ### [To-Undo List](https://to-undo-list.netlify.app)
-> A twist on the to-do list: for regrets and second chances 😌.  
-Reflect on past decisions, reframe them, and start again.
+> A twist on the to-do list: for regrets and second chances 😌. Just put your things that you want to undo or to do better. I took UI design from Canva AI, but coded whole website myself in HTML, CSS and JS. [Checkout Repository](https://github.com/abhisarxverma/To_Undo_List)
 
 ### [Thought Painting](https://thoughtpainting.netlify.app)
-> A canvas for emotional release❣️ .  
-Pour your thoughts into a dark, colorful screen — reflect, save, and breathe.
+> A canvas for cluttered minds❣️. I know it's hard to put the cluttered and weird thoughts on a clean white paper, so I built this, just put your thoughts wherever you feel like and make a painting of your thoughts with random colors and random font sizes. [Checkout Repository](https://github.com/abhisarxverma/Thought_Painting)
 
 ## Other Projects
 
 ### [Beautiful Mail - Chrome Extension](https://github.com/abhisarxverma/Beautful_mail.git)
-> Why should only companies send nice emails?  
-Now anyone can create emails with emotion — colors, buttons, and all 💌.
-
-##
-
-## 📚 **Learning & Progress Repositories**
-
-### 🔍 [Data Structures & Algorithms](https://github.com/abhisarxverma/DSA-by-heart)
-> Solving every problem 👩‍🔬 in both Python and C++ using the pattern:  
-  **BRUTE → BETTER → OPTIMAL**
-
-### 🎓 [SQL Learning](https://github.com/abhisarxverma/SQL-Mastery)
-> Completed the **Harvard CS50 SQL course** — practice projects on SQL Lite, now will move towards MySQL.
-
-### 📘 [Programming Book Reading](https://github.com/abhisarxverma/Books)
-> Currently reading 📚 **The Pragmatic Programmer** and Making notes  to remind my future self what matters.
+> Why only companies send nice emails with colors and beautiful boxes and buttons?  
+I created this chrome extension to let common people like me send beautiful mails with — colors, buttons, and all 💌.
+[Checkout Repository](https://github.com/abhisarxverma/Beautiful_Mail)
 
 ---
 
 ## 🧭 What I'm About
 
-I’m not here to chase hype 😉.
-I’m here to build honestly, learn deeply, and express what matters — with code.
-
-Let’s keep building.  
-Slow is smooth. Smooth is fast.  
-🚀
+I just want to turn all the ideas from my ideas diary to a live site, nothing else matters.
 
 ---
 
