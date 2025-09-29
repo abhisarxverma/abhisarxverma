@@ -5,14 +5,18 @@ I felt like I found the one thing I could do from every morning to every night w
 
 Since then, I’ve been on a journey ✈️ to find **my field** in the vast world of technology. 
 
-## **Current Stop - Web Development 💻**
-### Next Station - AI Apps 🤖
-
 Right now, I’m diving deep into **Web Development**, focusing on **React** and the whole toolset around that, slowly turning the ideas from my ideas diary into deployed sites.
+
+Also i have very sharp mind in Data Structures and Algorithms.
 
 ---
 
 ## 🚀 **Recent Webapps I deployed [All Open-source]**
+
+### [Typesmart](https://typesmart.pythonanywhere.com)
+
+> TypeSmart is a chill typing webapp that helps you practice typing with your own content.
+Instead of random filler texts, you can upload your own notes, book excerpts, or research material, make groups, organize everything in your library and type in a minimal, distraction-free interface. Both main and demo available in single app so that users can tryout the webapp without login/signup. [Checkout Repository](https://github.com/abhisarxverma/TypeSmart)
 
 ### [MyTuneTale - My First Fullstack React Webapp](https://mytunetale.pythonanywhere.com)
 
