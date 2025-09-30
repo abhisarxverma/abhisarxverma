@@ -9,6 +9,12 @@ Right now, I’m diving deep into **Web Development**, focusing on **React** and
 
 Also i have very sharp mind in Data Structures and Algorithms.
 
+Just now on 29 september i deployed **TypeSmart** webapp.
+
+### Next problem I am going to solve - 👨‍🏫 Smart Classroom Screen Sharing
+
+> Will build a webapp that empowers teachers to view all student screens in one secure dashboard—making classroom management smarter and more efficient. No more walking around to check progress. Teachers can monitor activity, guide students in real time, and even share a student's screen with the whole class to highlight great work or explain concepts collaboratively.
+
 ---
 
 ## 🚀 **Recent Webapps I deployed [All Open-source]**
