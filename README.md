@@ -5,11 +5,9 @@ I felt like I found the one thing I could do from every morning to every night w
 
 Since then, I’ve been on a journey ✈️ to find **my field** in the vast world of technology. 
 
-Right now, I’m diving deep into **Web Development**, focusing on **React** and the whole toolset around that, slowly turning the ideas from my ideas diary into deployed sites.
+Right now, I’m diving deep into **Web Development**, focusing on **React** and **NextJs** and the whole toolset around that, slowly turning the ideas from my ideas diary into deployed sites.
 
-Also i have very sharp mind in Data Structures and Algorithms.
-
-Just now on 29 september i deployed **TypeSmart** webapp.
+Just now on 14 March i deployed **Fastdrop** webapp.
 
 ### Next problem I am going to solve - 👨‍🏫 Smart Classroom Screen Sharing
 
@@ -17,7 +15,13 @@ Just now on 29 september i deployed **TypeSmart** webapp.
 
 ---
 
-## 🚀 **Recent Webapps I deployed [All Open-source]**
+## 🚀 **Recent problems I sovled by building [All Open-source]**
+
+### [Fastdrop](https://fastdrop-ebon.vercel.app)
+
+> I saw instructors using whatsapp to share files and code to the students sitting in labs each having internet connected systems in front of them, making them login their personal whatsapp accounts in public systems which is a very wrong way of sharing, also turns out to be time taking and inconvinient. So we built the most right way for sharing to nearby systems. - **Fastdrop**.
+
+Fastdrop creates quick, ephemeral sessions that nearby systems can instantly discover based on the Geo location provided by browsers and join. Within these sessions you can share four essentials — Files, code, text and links. These will be visible to everyone in the session in realtime. This makes sharing as fast as opening a website. [Checkout Repository](https://github.com/abhisarxverma/fastdrop)
 
 ### [Typesmart](https://typesmart.pythonanywhere.com)
 
