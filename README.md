@@ -1,147 +1,109 @@
-# 👋 Hey, I'm Abhisar
+# 👋 Hi, I'm Abhisar
 
-I’m a builder from India obsessed with turning real-world problems into working products.
+I'm a developer from India who enjoys turning ideas into working products.
 
-Around late 2024, I found programming and completely submerged into it.  
-Since then, I’ve spent most of my time learning, building, shipping, breaking things, fixing them, and repeating the cycle again.
+I started programming in late 2024 and since then I've spent most of my time building, learning, breaking things, fixing them, and shipping projects.
 
-I started with full-stack web development, built multiple open-source products, and now I’m diving deep into Solidity, Foundry and full-stack Web3 development.
+**Learning style:** I learn by building things that solve real-world problems rather than following tutorials for too long.
 
-Currently learning through:
-- Cyfrin Updraft
-- Speedrun Ethereum
-- Building my own smart contract projects
+## 🚀 What I'm Focused On
 
----
+* Full-stack web development
+* Open-source projects
+* Web3 & smart contract development
+* Building useful products from simple ideas
 
-# 🧠 What I’m Focused On Right Now
+## 🛠️ Tech Stack
 
-### ⚒️ Web3 + Smart Contract Development
-Learning:
-- Solidity
-- Foundry
-- Smart contract security
-- Testing & fuzzing
-- Full-stack dApp architecture
-- Contract ↔ frontend integration
+```txt
+JavaScript • TypeScript
+React • Next.js
+Node.js • Express
+Django
+PostgreSQL • Supabase
 
-Built so far:
-- Minimal Bank
-- MultiSig Wallet
-- Savings Vault
-- DAO Voting System
-- Escrow Smart Contract
+Solidity • Foundry
+Ethers.js • Hardhat
+```
 
----
+## 🌍 Projects
 
-# 🌍 Why Web3 Interests Me
+### ⚡ Fastdrop
 
-Because I want to use my passion for programming and problem solving to build for the ecosystem that is the future of technology.
+Realtime nearby-sharing app built after seeing students and teachers use personal messaging apps on public computers just to transfer files.
 
----
+Share files, text, code and links instantly over temporary local sessions.
 
-# 🚀 Some Things I’ve Built
-
-## ⚡ Fastdrop
-A realtime nearby-sharing webapp built after seeing teachers and students use personal WhatsApp accounts on public lab computers just to transfer files.
-
-Fastdrop creates temporary local sessions where nearby systems can instantly share:
-- files
-- code
-- text
-- links
-
-No login chaos.  
-No unnecessary friction.  
-Just open and share.
-
-🔗 Live: https://fastdrop-ebon.vercel.app  
+🔗 Live: https://fastdrop-ebon.vercel.app
 🔗 Repo: https://github.com/abhisarxverma/fastdrop
 
 ---
 
-## ⌨️ TypeSmart
-A typing practice webapp where users can type using their own notes, books and study material instead of random filler text.
+### ⌨️ TypeSmart
 
-Built because learning feels better when practice uses content you actually care about.
+Typing practice using your own notes, books and study material instead of random text.
 
-🔗 Live: https://typesmart.pythonanywhere.com  
+🔗 Live: https://typesmart.pythonanywhere.com
 🔗 Repo: https://github.com/abhisarxverma/TypeSmart
 
 ---
 
-## 🛠️ ErrorHelp
-A simple developer tool for sharing coding errors properly.
+### 🛠️ ErrorHelp
 
-Instead of sending random screenshots in chats, developers can create an "Erroframe" containing:
-- error screenshots
-- code files
-- terminal output
-- context
+A developer tool for sharing coding errors with proper context including screenshots, code, terminal output and discussions.
 
-Others can leave help comments directly.
-
-🔗 Live: https://errorhelp.pythonanywhere.com  
+🔗 Live: https://errorhelp.pythonanywhere.com
 🔗 Repo: https://github.com/abhisarxverma/Errorhelp
 
 ---
 
-## 🎵 MyTuneTale
-Connected Spotify analytics dashboard built while learning React.
+### 🎵 MyTuneTale
 
-Tracks:
-- top artists
-- top songs
-- listening trends
-- monthly additions
+Spotify analytics dashboard for exploring listening habits, favorite artists and music trends.
 
-Built mostly because I thought:
-> “This would be fun to build.”
-
-🔗 Live: https://mytunetale.pythonanywhere.com  
+🔗 Live: https://mytunetale.pythonanywhere.com
 🔗 Repo: https://github.com/abhisarxverma/MyTuneTale
 
----
+## ⛓️ Web3 Projects
 
-# 🛤️ Current Direction
+### 💸 Staking Rewards Protocol
 
-Right now my focus is:
-- becoming a strong Web3/full-stack engineer
-- contributing to open-source
-- building useful decentralized products
-- learning in public
-- finding ambitious builders to grow with
+A Synthetix inspired protocol that rewards users based on their stake with time. This project is based on ERC20.
 
----
+### 🏦 Minimal Bank
 
-# 📖 Current Learning Stack
+A simple smart contract for deposits and withdrawals.
 
-```txt
-Solidity
-Foundry
-Next.js
-React
-Node.js
-Express
-Django
-PostgreSQL
-Supabase
-Ethers.js
-Hardhat
-Smart Contract Security
-```
+### 🔐 MultiSig Wallet
 
----
+Wallet requiring multiple approvals before executing transactions.
 
-# 🧭 Philosophy
+### 💰 Savings Vault
 
-I just want to keep taking ideas from my notes app and turning them into real things people can use.
+Time-locked savings contract with controlled withdrawals.
 
----
+### 🗳️ DAO Voting System
 
-# 📬 Connect With Me
+On-chain proposal creation and community voting.
 
-- GitHub: https://github.com/abhisarxverma
-- Email: absrshanks@gmail.com
+### 🤝 Escrow Contract
 
-Currently building in public ⚡
+Trustless escrow between parties using smart contracts.
+
+## 🌱 Currently Learning
+
+* Smart Contract Security
+* Foundry Testing & Fuzzing
+* Full-Stack dApp Development
+* Protocol Design
+
+## 🧭 Philosophy
+
+I want to solve every problem i faced using my knowledge, so that others would not have to face them in future.
+
+## 📬 Connect
+
+GitHub: https://github.com/abhisarxverma
+
+Email: [absrshanks@gmail.com](mailto:absrshanks@gmail.com)
+
