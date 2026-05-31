@@ -34,8 +34,8 @@ Realtime nearby-sharing app built after seeing students and teachers use persona
 
 Share files, text, code and links instantly over temporary local sessions.
 
-🔗 Live: https://fastdrop-ebon.vercel.app
-🔗 Repo: https://github.com/abhisarxverma/fastdrop
+[🔗 Live site](https://fastdrop-ebon.vercel.app)
+[🔗 Repo:](https://github.com/abhisarxverma/fastdrop)
 
 ---
 
@@ -43,8 +43,8 @@ Share files, text, code and links instantly over temporary local sessions.
 
 Typing practice using your own notes, books and study material instead of random text.
 
-🔗 Live: https://typesmart.pythonanywhere.com
-🔗 Repo: https://github.com/abhisarxverma/TypeSmart
+[🔗 Live site](https://typesmart.pythonanywhere.com)
+[🔗 Repo](https://github.com/abhisarxverma/TypeSmart)
 
 ---
 
@@ -52,8 +52,8 @@ Typing practice using your own notes, books and study material instead of random
 
 A developer tool for sharing coding errors with proper context including screenshots, code, terminal output and discussions.
 
-🔗 Live: https://errorhelp.pythonanywhere.com
-🔗 Repo: https://github.com/abhisarxverma/Errorhelp
+[🔗 Live](https://errorhelp.pythonanywhere.com)
+[🔗 Repo](https://github.com/abhisarxverma/Errorhelp)
 
 ---
 
@@ -61,8 +61,8 @@ A developer tool for sharing coding errors with proper context including screens
 
 Spotify analytics dashboard for exploring listening habits, favorite artists and music trends.
 
-🔗 Live: https://mytunetale.pythonanywhere.com
-🔗 Repo: https://github.com/abhisarxverma/MyTuneTale
+[🔗 Live](https://mytunetale.pythonanywhere.com)
+[🔗 Repo](https://github.com/abhisarxverma/MyTuneTale)
 
 ## ⛓️ Web3 Projects
 
